@@ -16,7 +16,7 @@ application =
         	LevelHelperSettings = 
 	{
 		imagesSubfolder = "image",
-		levelsSubfolder = "Levels"
+		levelsSubfolder = "LevelHelper"
 	}
     },
 }

@@ -1,4 +1,4 @@
--- Project: PaddleBall                         																															
+CiderRunMode = {};CiderRunMode.runmode = true;CiderRunMode.assertImage = true;require "CiderDebugger";-- Project: PaddleBall                         																															
 -- Description: A Breakout inspired game for iOS devices. 
 -- Twitter: @CraftyDeano
 -- GitHub: @CraftyDeano
